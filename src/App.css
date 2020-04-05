@@ -1,0 +1,7 @@
+*{
+  font-family: sans-serif;
+}
+
+#grad {
+    background-image: linear-gradient(#E2F6F7, white);
+  }
